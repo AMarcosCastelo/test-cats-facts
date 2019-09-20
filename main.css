@@ -1,0 +1,19 @@
+
+@media (max-width: 768px) { 
+  #btnFact {
+    margin-top: 20px;
+  }
+
+  .form-inline {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .form-group {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+}

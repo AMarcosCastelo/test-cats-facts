@@ -1,0 +1,17 @@
+{
+  "name": "test-cats-facts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "eslint": "^6.4.0",
+    "gulp": "^4.0.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Marcos",
+  "license": "ISC"
+}
